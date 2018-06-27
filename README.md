@@ -54,7 +54,7 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 
 * Unity Virtual Reality Projects - Second Edition [[Packt]](https://www.packtpub.com/game-development/unity-virtual-reality-projects-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788478809) [[Amazon]](https://www.amazon.com/dp/1788478800)
 
-## Get to Know the Author(s)
+## Get to Know the Authors
 **John P. Doran** is a passionate and seasoned technical game designer, software engineer, and author who is based in Redmond, Washington.
 For over a decade, John has built games in roles ranging from game designer to lead UI programmer. Additionally, John has taught game development in Singapore, South Korea, and the United States. To date, he has authored over 10 books pertaining to game development.
 
