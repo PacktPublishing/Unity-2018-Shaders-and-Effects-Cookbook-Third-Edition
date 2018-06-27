@@ -36,7 +36,7 @@ Properties
 
 **Following is what you need for this book:**
 Unity Shaders and Effects Cookbook is for developers who want to create their first shaders in Unity 2018 or wish to take their game to a whole new level by adding professional post-processing effects. A solid understanding of Unity is required to get the most from this book.
-With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
+With the following software and hardware list you can run all code files present in the book (Chapter 1-12).
 
 ### Software and Hardware List
 
