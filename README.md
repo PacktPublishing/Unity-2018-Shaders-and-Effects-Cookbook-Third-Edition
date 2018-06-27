@@ -42,7 +42,7 @@ With the following software and hardware list you can run all code files present
 
 | Chapter  | Software required                   | OS required                        | Hardware required                 |
 | -------- | ------------------------------------| -----------------------------------|-----------------------------------|
-| 1-12     | Unity 2018.1.0f2                    | Windows 7 SP1+, 8, 10, 64-bit versions only; Mac OS X 10.9+. | CPU: SSE2 instruction set support. GPU: Graphics card with DX10 (shader model 4.0) capabilities |
+| 1-12     | Unity 2018.1.0f2                    | Windows 7 SP1+, 8, 10, 64-bit versions only; Mac OS X 10.9+ | CPU: SSE2 instruction set support. GPU: Graphics card with DX10 (shader model 4.0) capabilities |
                                                                                                                                                                       
 
 
