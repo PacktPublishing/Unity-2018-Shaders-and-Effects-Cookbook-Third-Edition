@@ -1,22 +1,23 @@
-# Book Name
+# Unity 2018 Shaders and Effects Cookbook - Third Edition
 
-<a href="Packt UTM URL of the Book"><img src="Cover Image URL of the Book" alt="Book Name" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/game-development/unity-2018-shaders-and-effects-cookbook-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788396233"><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/B08825_MockupCover.png" alt="Unity 2018 Shaders and Effects Cookbook - Third Edition" height="256px" align="right"></a>
 
-This is the code repository for [Book Name](Packt UTM URL of the Book), published by Packt.
+This is the code repository for [Unity 2018 Shaders and Effects Cookbook - Third Edition](https://www.packtpub.com/game-development/unity-2018-shaders-and-effects-cookbook-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788396233), published by Packt.
 
-**Subtitle from EPIC**
+**Transform your game into a visually stunning masterpiece with over 70 recipes**
 
 ## What is this book about?
-First Paragraph from the Long Description
 
-This book covers the following exciting features: <First 5 What you'll learn points>
-* Learn how to manage users, groups, and permissions
-* Encrypt and decrypt disks with Linux Unified Key Setup /Luks
-* Setup SSH for remote access, and connect it to other nodes
-* Understand how to add, remove, and search for packages
-* Use NFS and Samba to share directories with other users
+Since their introduction to Unity, shaders have been seen as notoriously difficult to understand and implement in games. Complex mathematics has always stood in the way of creating your own shaders and attaining the level of realism you crave.
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/dp/10DigitISBN) today!
+This book covers the following exciting features:
+* Understand physically based rendering to fit the aesthetic of your game
+* Write shaders from scratch in ShaderLab and HLSL/Cg
+* Combine shader programming with interactive scripts to add life to your materials
+* Design efficient shaders for mobile platforms without sacrificing their realism
+* Use state-of-the-art techniques, such as volumetric explosions and fur shading
+
+If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1788396235) today!
 
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
@@ -27,56 +28,43 @@ All of the code is organized into folders. For example, Chapter02.
 
 The code will look like the following:
 ```
-if (test expression)
+Properties 
 {
-  Statement upon condition is true
+  _MainTex("Texture", 2D) = "white" 
 }
 ```
 
 **Following is what you need for this book:**
-Copy and paste the Audience section from the EPIC.
-
+Unity Shaders and Effects Cookbook is for developers who want to create their first shaders in Unity 2018 or wish to take their game to a whole new level by adding professional post-processing effects. A solid understanding of Unity is required to get the most from this book.
 With the following software and hardware list you can run all code files present in the book (Chapter 1-15).
 
 ### Software and Hardware List
 
-| Chapter  | Software required                   | OS required                        |
-| -------- | ------------------------------------| -----------------------------------|
-| 1        | R version 3.3.0                     | Windows, Mac OS X, and Linux (Any) |
-| 2        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 3        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 4        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 5        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 6        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 7        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 8        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 9        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 10        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 11        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 12        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 13        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 14        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
-| 15        | Rstudio Desktop 0.99.903            | Windows, Mac OS X, and Linux (Any) |
+| Chapter  | Software required                   | OS required                        | Hardware required                 |
+| -------- | ------------------------------------| -----------------------------------|-----------------------------------|
+| 1-12     | Unity 2018.1.0f2                    | Windows 7 SP1+, 8, 10, 64-bit versions only |  CPU: SSE2 instruction set support.
+                                                   Mac OS X 10.9+.) |                             GPU: Graphics card with DX10 (shader                                                                                                     model 4.0) capabilities.
 
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](Graphics Bundle Link).
 
-### Related products <Paste books from the Other books you may enjoy section>
-* Linux: Powerful Server Administration [[Packt]](https://www.packtpub.com/networking-and-servers/linux-powerful-server-administration?utm_source=github&utm_medium=repository&utm_campaign=9781788293778) [[Amazon]](https://www.amazon.com/dp/1788293770)
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://www.packtpub.com/sites/default/files/downloads/Unity2018ShadersandEffectsCookbookThirdEdition_ColorImages.pdf).
 
-* Linux Device Drivers Development [[Packt]](https://www.packtpub.com/networking-and-servers/linux-device-drivers-development?utm_source=github&utm_medium=repository&utm_campaign=9781785280009) [[Amazon]](https://www.amazon.com/dp/1788293770)
+### Related products
+* Getting Started with Unity 2018 - Third Edition [[Packt]](https://www.packtpub.com/game-development/getting-started-unity-2018-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788830102) [[Amazon]](https://www.amazon.com/dp/1788830105)
+
+* Unity Virtual Reality Projects - Second Edition [[Packt]](https://www.packtpub.com/game-development/unity-virtual-reality-projects-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788478809) [[Amazon]](https://www.amazon.com/dp/1788478800)
 
 ## Get to Know the Author(s)
-**Author Name**
-Bio
+**John P. Doran** is a passionate and seasoned technical game designer, software engineer, and author who is based in Redmond, Washington.
+For over a decade, John has built games in roles ranging from game designer to lead UI programmer. Additionally, John has taught game development in Singapore, South Korea, and the United States. To date, he has authored over 10 books pertaining to game development.
 
-**Author Name**
-Bio
+**Alan Zucconi** is a passionate developer, author, and lecturer, recognized as one of Develop's 30 under 30. His expertise has been built over the past 10 years, working in the intersection between creativity and education. Starting in 2015, he published a series of educational tutorials for other developers and machine learning enthusiasts
 
 
 ## Other books by the authors
-* [Mastering Linux Network Administration](https://www.packtpub.com/networking-and-servers/mastering-linux-network-administration?utm_source=github&utm_medium=repository&utm_campaign=9781784399597)
-* [Linux Mint Essentials](https://www.packtpub.com/networking-and-servers/linux-mint-essentials?utm_source=github&utm_medium=repository&utm_campaign=9781782168157)
+* [Unity 2017 Mobile Game Development](https://www.packtpub.com/game-development/unity-2017-mobile-game-development?utm_source=github&utm_medium=repository&utm_campaign=9781787288713)
+* [Unreal Engine: Game Development from A to Z](https://www.packtpub.com/game-development/unreal-engine-game-development-z?utm_source=github&utm_medium=repository&utm_campaign=9781787123281)
+* [Unity 5.x Shaders and Effects Cookbook](https://www.packtpub.com/game-development/unity-5x-shaders-and-effects-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781785285240)
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
