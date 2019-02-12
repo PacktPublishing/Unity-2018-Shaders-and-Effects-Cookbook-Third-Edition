@@ -38,7 +38,7 @@
 		half4 LightingCustomLambert (SurfaceOutput s, half3 lightDir, 
 									 half3 viewDir, half atten) 
 		{ 
-			half NdotL = dot (s.Normal, lightDir);   
+			float NdotL = max(0, dot(s.Normal, lightDir));
 
 			// Snap instead
 			half cel = floor(NdotL * _CelShadingLevels) / 
