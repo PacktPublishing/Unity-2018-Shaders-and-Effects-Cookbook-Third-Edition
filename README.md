@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this product for only $5 on PacktPub.com](https://www.packtpub.com/)
------
-*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Unity 2018 Shaders and Effects Cookbook - Third Edition
 
 <a href="https://www.packtpub.com/game-development/unity-2018-shaders-and-effects-cookbook-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788396233"><img src="https://www.packtpub.com/sites/default/files/B08825.png" alt="Unity 2018 Shaders and Effects Cookbook - Third Edition" height="256px" align="right"></a>
